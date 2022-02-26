@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68706627252",
+    "project_id": "kotlinloginpage",
+    "storage_bucket": "kotlinloginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68706627252:android:6356eaf11f7dfaf45cf1e1",
+        "android_client_info": {
+          "package_name": "com.example.kotlinloginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68706627252-56d4kjtdloft6pd41lvoplv778bn9but.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZw8VBNi1-wu_4DUtedR9t2VnmvgzQ8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68706627252-56d4kjtdloft6pd41lvoplv778bn9but.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

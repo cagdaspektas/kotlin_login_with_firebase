@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kotlinLoginWithFirebase</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="sifre">Şifre</string>
+    <string name="email">Email</string>
+    <string name="giris_ekrani">GİRİŞ EKRANI</string>
+    <string name="giris_basarili">GİRİŞ BAŞARILI</string>
+    <string name="kayit_ekrani">KAYIT EKRANI</string>
+    <string name="ifre_tekrar">Şifre Tekrar</string>
+
+</resources>
